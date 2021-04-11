@@ -1,0 +1,31 @@
+{
+
+    "Companies":    
+    [
+                        {
+                            "CompanyName":"SpaceX",
+                            "StockPrice": 160,
+                            "Location": "USA"
+                        },
+                        {
+                            "CompanyName":"Netsol",
+                            "StockPrice": 55,
+                            "Location": "Pakistan"
+                        },
+                        {
+                            "CompanyName":"Bahria University",
+                            "StockPrice": 42,
+                            "Location": "Pakistan"
+                        },
+                        {
+                            "CompanyName":"Apple",
+                            "StockPrice": 525,
+                            "Location": "USA"
+                        }
+
+    ]
+
+
+
+
+}
